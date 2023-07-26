@@ -1,0 +1,154 @@
+{
+  "Header": {
+    "title": "Stepping Stone to your Career",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "At OFMS, we empower businesses with the best available resources in the field of facility management. We work in collaborative thinking with business on their requirements to scale  and drive workplace solutions by closing the loop on continuous hiring and training of new resources every time. We help businesses in identifying and focusing on  growth plans and leave the manpower requirements with us .",
+    "Why": [
+      "Fulfilling employee recruitment issue with pool of talented professionals.",
+      "Highly skilled professionals",
+      "Quality employees"
+    ],
+    "Why2": [
+      "Find jobs that align with there skills and passion",
+      "Talent development",
+      "Skill development",
+      "Career growth"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "People Management",
+      "largeImage": "img/portfolio/img1.jpg",
+      "smallImage": "img/portfolio/img1.jpg"
+    },
+    {
+      "title": "Training and Development",
+      "largeImage": "img/portfolio/img2.jpg",
+      "smallImage": "img/portfolio/img2.jpg"
+    },
+    {
+      "title": "Recruitment",
+      "largeImage": "img/portfolio/img3.jpg",
+      "smallImage": "img/portfolio/img3.jpg"
+    }
+  ],
+
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Training Courses",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Shop No. 26, First Floor, Tosham Chungi- Dabra Road, Near Om Complex, Hisar - 125001",
+    "phone": "+91 991 102 25700",
+    "email": "ofms.india@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Training and Development",
+      "text": "Our customised training plan mostly revolves around programs that enable individual to learn precise skills or knowledge to sustain in the current demanding market."
+    },
+    {
+      "icon": "fa fa-search-plus fa-3x",
+      "title": "Recruitment",
+      "text": "Our expertise lies in our strong understanding of the clients requirements, innovative approaches mapping potential candidates."
+    },
+    {
+      "icon": "fa fa-users fa-3x",
+      "title": "Staffing",
+      "text": "We draw on our research and profiling instruments to recruit and retain top-level resources with rapidly changing staffing and skill needs."
+    },
+    {
+      "icon": "fa fa-building",
+      "title": "Maintenance",
+      "text": "We design to simplify the maintenance management process by providing features such as asset management, preventive maintenance, work order management, inventory management etc."
+    }
+  ]
+}
