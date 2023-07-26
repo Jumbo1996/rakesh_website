@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rakesh_website/static/css/main.ae0bb9df.css",
+    "main.js": "/rakesh_website/static/js/main.633f7463.js",
+    "index.html": "/rakesh_website/index.html",
+    "main.ae0bb9df.css.map": "/rakesh_website/static/css/main.ae0bb9df.css.map",
+    "main.633f7463.js.map": "/rakesh_website/static/js/main.633f7463.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0bb9df.css",
+    "static/js/main.633f7463.js"
+  ]
+}
