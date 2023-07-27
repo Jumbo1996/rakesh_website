@@ -23,4 +23,11 @@
 .card-detail1{
   float: left;   
   margin-left: 14%;
+  margin-bottom: 26px;
+}
+
+@media screen and (max-width: 600px) {
+  .card-detail1 {
+    margin-bottom: 26px;
+  }
 }

@@ -4,7 +4,7 @@ import React from "react";
 
 export const Services = (props) => {
   const employeerrouteChange = () => {
-    let path = `https://forms.gle/5kjEBZVxaCMCCB1m6`;
+    let path = `https://forms.gle/tZR8cxfHenYSf8dC6`;
     window.open(path);
   };
 
@@ -51,7 +51,7 @@ export const Services = (props) => {
               />
               <Card.Body>
                 <Card.Title>
-                  <h3>Employeer Registration</h3>
+                  <h3>Employer Registration</h3>
                 </Card.Title>
                 <Card.Text>
                   Please register here our team will contact you
