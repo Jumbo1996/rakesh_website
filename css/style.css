@@ -248,6 +248,7 @@ header .intro-text {
   padding-top: 350px;
   padding-bottom: 200px;
 }
+
 /* Features Section */
 #features {
   background: #f6f6f6;
@@ -274,11 +275,21 @@ header .intro-text {
   font-weight: 700;
   font-family: fangsong;
 }
+@media only screen and (max-width: 600px) {
+  .header-text {
+    line-height: 81%;
+  }
+}
 .covertext{
   color: lightblue;
   font-weight: 700;
   font-family: fangsong;
   right: 12%;
+}
+@media only screen and (max-width: 600px) {
+  .covertext {
+    right: 0%;
+  }
 }
 .galleryImg{
   height: 49%;
@@ -485,12 +496,14 @@ header .intro-text {
   padding: 100px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: rgba(255, 255, 255, 0.75);
+  border: solid;
+
 }
 #contact .section-title {
   margin-bottom: 40px;
 }
 #contact .section-title p {
-  font-size: 16px;
+  font-size: 20px;
 }
 #contact h2 {
   color: #fff;
@@ -507,7 +520,7 @@ header .intro-text {
   bottom: 0;
   left: 30px;
 }
-#contact h3 {
+#contact h2 {
   color: #fff;
   margin-top: 80px;
   margin-bottom: 25px;
@@ -571,8 +584,9 @@ label {
 .form-control:-ms-input-placeholder {
   color: #777;
 }
-#contact .contact-item {
+#contact .contact-item p {
   margin: 20px 0;
+  font-size: 20px;
 }
 #contact .contact-item span {
   color: rgba(255, 255, 255, 1);
