@@ -265,6 +265,11 @@ header .intro-text {
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
+@media only screen and (max-width: 600px) {
+.feature {
+  width: auto;
+}
+}
 /* About Section */
 #about {
   padding: 100px 0;
@@ -275,6 +280,8 @@ header .intro-text {
   font-weight: 700;
   font-family: fangsong;
 }
+
+
 @media only screen and (max-width: 600px) {
   .header-text {
     line-height: 81%;
